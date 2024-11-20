@@ -12,7 +12,7 @@ const Logo = () => {
       
 
     >
-      <image href="public\clientLogo1.png" x="10" y="10" height="50" width="200" />
+      <image href="\clientLogo1.png" x="10" y="10" height="50" width="200" />
     </svg>
   );
 };

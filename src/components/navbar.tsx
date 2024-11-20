@@ -20,7 +20,7 @@ const Navbar = () => {
       {matches && (
         <nav className="flex flex-row gap-6">
           <a href="/" className={linkStyle}>
-            Home
+            Inicio
           </a>
           <a href="/services" className={linkStyle}>
             Comodidades

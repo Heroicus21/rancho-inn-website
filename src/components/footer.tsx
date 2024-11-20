@@ -33,21 +33,11 @@ const Footer = () => {
         </div>
         <div className="col-span-1 flex flex-col gap-4">
           <h5 className="text-primary-200 font-dm text-[22px] lg:text-[25px] leading-loose">
-            Pages
+            
           </h5>
           <div className="flex flex-col gap-6">
-            <a
-              href="/services"
-              className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray"
-            >
-              Comodidades
-            </a>
-            <a
-              href="/contact"
-              className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray"
-            >
-              Contactenos
-            </a>
+            
+            
           </div>
         </div>
         <div className="col-span-1 flex flex-col gap-4">
@@ -65,17 +55,17 @@ const Footer = () => {
               A 3 cuadras del mar
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              A 1 del centro
+              A media del centro comercial
             </p>
           </div>
         </div>
         <div className="col-span-1 flex flex-col gap-4">
           <h5 className="text-primary-200 font-dm text-[22px] lg:text-[25px] leading-loose">
-            Contact
+            Ubicacion
           </h5>
           <div className="flex flex-col gap-6">
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              Calle 32 - Entre Copacabana y Punta del Este.
+              Punta del Este entre calle 32 y 33.
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
               info@ranchoinn.com.ar
